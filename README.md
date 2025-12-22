@@ -1,4 +1,22 @@
+![👋 Hi, my name is Shaurya Kundan](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
 
+
+# 👋 Hi, My Name is Shaurya Kundan
+
+![Profile Views](https://komarev.com/ghpvc/?username=Parth308&label=Profile%20views&color=0e75b6&style=flat)
+
+---
+
+## 🚀 **Passionate Fullstack Web Developer**
+I focus on building **robust, scalable, and high-performance web applications**. Proficient in both **front-end** and **back-end technologies**, I bring ideas to life with clean, efficient, and maintainable code. Crafting seamless **user experiences** that are visually appealing and highly functional is what I do best!
+
+### 🔧 **What I Do**
+- Build **dynamic front-end interfaces** using modern frameworks like **React**, **Next.js**, and **CSS frameworks** such as **Tailwind CSS** and **Bootstrap**.
+- Design and develop **scalable back-end systems** with tools like **Node.js**, **Express**, and **SQL/NoSQL databases**.
+- Optimize web performance for **speed and reliability** across all devices.
+- Integrate APIs and third-party services to extend functionality and ensure seamless communication.
+
+---
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shaurya_verma105) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaurya-verma105) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omshaurya941@gmail.com) 
 
