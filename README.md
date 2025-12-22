@@ -7,14 +7,14 @@
 
 ---
 
-## 🚀 **Passionate Fullstack Web Developer**
-I focus on building **robust, scalable, and high-performance web applications**. Proficient in both **front-end** and **back-end technologies**, I bring ideas to life with clean, efficient, and maintainable code. Crafting seamless **user experiences** that are visually appealing and highly functional is what I do best!
+## 🚀 **Full-Stack Web Developer**
+I build clean, scalable, and performance-focused web applications. With strong command over both frontend and backend development, I turn ideas into reliable products using maintainable, real-world code. I care about user experience, system design, and writing code that actually scales.
 
 ### 🔧 **What I Do**
-- Build **dynamic front-end interfaces** using modern frameworks like **React**, **Next.js**, and **CSS frameworks** such as **Tailwind CSS** and **Bootstrap**.
-- Design and develop **scalable back-end systems** with tools like **Node.js**, **Express**, and **SQL/NoSQL databases**.
-- Optimize web performance for **speed and reliability** across all devices.
-- Integrate APIs and third-party services to extend functionality and ensure seamless communication.
+- Build modern, responsive interfaces using frameworks like **React**, **Next.js**, and **CSS frameworks** such as **Tailwind CSS** and **Bootstrap**.
+- Develop secure and scalable backends with **Node.js**, **Express**, and **SQL/NoSQL databases**.
+- Optimize applications for **performance, reliability, and cross-device compatibility**.
+- Integrate **APIs and third-party services** to deliver complete, production-ready solutions
 
 ---
 ## 🌐 Socials:
