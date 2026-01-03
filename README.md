@@ -31,5 +31,4 @@ I build clean, scalable, and performance-focused web applications. With strong c
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shauryaverma1005&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
